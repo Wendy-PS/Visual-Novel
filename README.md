@@ -7,7 +7,7 @@ O objetivo deste projeto foi recriar a experiência imersiva dos jogos clássico
 ---
 
 ## 🎮 Teste agora:
-🔗 **[Clique aqui para jogar no navegador](#)**  
+🔗 **[Clique aqui para jogar no navegador](https://wendy-ps.github.io/Visual-Novel/)**  
 *(Substitua a `#` pelo link do GitHub Pages quando o projeto estiver online)*
 
 ## ✨ Funcionalidades (Features)
